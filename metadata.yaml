@@ -1,0 +1,33 @@
+_repo: A-Word-to-Women_36330
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Humphry, Mrs.
+    alias: Humphry, C. E., Mrs.
+    deathdate: 1925
+    gutenberg_agent_id: '38213'
+    url: http://www.gutenberg.org/2009/agents/38213
+description: ''
+gutenberg_issued: '2011-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women -- Conduct of life'
+tableOfContents: Mother and daughter -- Our school-girls -- What about sewing? --
+  Mothers and sons -- Our clever children -- Ultra-tidiness -- Good manners at home
+  -- Are women cowards? -- A glass of wine -- Some old proverbs -- Candour as a home
+  commodity -- Golden silence -- A social conscience -- Our debts -- The domestic
+  girl -- The girl-bachelor -- The middle-aged chaperon -- Lightheartedness -- A bit
+  of everyday philosophy -- Deadly dulness -- The pleasures of middle age -- Growing
+  old.
+title: A Word to Women
+url: http://www.gutenberg.org/ebooks/36330
